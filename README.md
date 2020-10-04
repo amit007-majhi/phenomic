@@ -25,11 +25,11 @@
 
 ---
 
-## [Documentation](https://phenomic.io/en/packages/core/docs/)
+## [Useful Documentation](https://phenomic.io/en/packages/core/docs/)
 
-## [Tutorials](https://phenomic.io/en/tutorials/)
+## [Best Tutorials](https://phenomic.io/en/tutorials/)
 
-## Examples
+## Some Examples
 
 There are plenty of
 [examples](https://github.com/phenomic/phenomic/tree/master/examples) available.
